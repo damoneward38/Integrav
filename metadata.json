@@ -1,0 +1,6 @@
+{
+  "name": "Intégrav",
+  "description": "Commercial VFX & Synthetic Human Workstation — Real Hardware Camera Likeness Cloner, Virtual Green Screen & AI Stage Switcher, Faithful Cartoon Mode for Songs & Movies, AI Motion Generator, and Houly-Pipe Workstation Bridge.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
